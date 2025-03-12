@@ -26,6 +26,11 @@ npx nodemon
 - 6 Para executar o front-end abra o arquivo ./web/index.html com o navegador ou Live Server do VsCode.
 - 7 Para testes importe o arquivo **./docs/insomnia.json** no **Insomnia**
 
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDuarte2007&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
