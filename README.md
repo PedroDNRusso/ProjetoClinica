@@ -42,11 +42,11 @@ npx nodemon
 </br>
 
  <div align="center">
-  <a href="https://www.instagram.com/pedr.odnr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucieneduartes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
+  <a href="https://www.instagram.com/__russ.odnr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedrodnrusso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDuarte2007/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedroDNRusso/count.svg" /></p>
 
 
 ## ByPedroDuarte
